@@ -1,0 +1,34 @@
+{
+  "completed": [
+    "image-0",
+    "image-1",
+    "image-10",
+    "image-11",
+    "image-12",
+    "image-13",
+    "image-14",
+    "image-15",
+    "image-16",
+    "image-17",
+    "image-18",
+    "image-19",
+    "image-2",
+    "image-3",
+    "image-4",
+    "image-5",
+    "image-6",
+    "image-7",
+    "image-8",
+    "image-9"
+  ],
+  "completion_rate": 1.0,
+  "dead_letters": [],
+  "makespan_ms": 682,
+  "recommended_gpu_workers": 3,
+  "rejected": 0,
+  "resource_busy_ms": {
+    "cpu": 304,
+    "gpu": 378
+  },
+  "retries": 2
+}
